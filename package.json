@@ -1,0 +1,24 @@
+{
+  "name": "npmteste",
+  "version": "1.0.0",
+  "description": "Meu primeiro projeto node usando npm como auxiliar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zuthori/Npm-Node.git"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "javascript"
+  ],
+  "author": "Danilo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zuthori/Npm-Node/issues"
+  },
+  "homepage": "https://github.com/zuthori/Npm-Node#readme"
+}
